@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlhVSUtptmQB7FtGOjByRHQ3Id5mJa+8Vg1+dtBFsC5Um9Nhk/66ReT9XYJp9h/5IkQ/Z5szBxOifMODrmb5NA==",
+  "success": true,
+  "projectFilePath": "E:\\RoosterLottery\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhuijax\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
